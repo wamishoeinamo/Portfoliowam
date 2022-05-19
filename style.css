@@ -16,3 +16,50 @@ body{
     font-size: 20px;
     font-weight:bold;
 }
+
+/*****************
+
+About
+
+*****************/
+
+#about{
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+#about img{
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+#about .vacation{
+    font-size: 14px;
+    color: #a8a8ab;
+    margin-bottom: 10px;
+
+}
+#about.skills{
+    font-size: 12px;
+    color:yellowgreen;
+    margin-bottom: 10px;
+
+}
+#about.email{
+    margin-top: 14px;
+    font-size: 30px;
+}
+#about .icons{
+    margin-top: 15px;
+    font-size: 25px;
+}
+#about .icons a{
+    color: black;
+}
